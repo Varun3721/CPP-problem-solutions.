@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     int a[]={1,2,0,7,19,4};
-    int n=*(&a+1)-a;
+    int n=*(&a+1)-a;   //for getting size of array.
     //2
     int maximum=-1;
     int recorddays=0;

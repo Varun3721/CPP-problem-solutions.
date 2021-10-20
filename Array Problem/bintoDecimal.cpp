@@ -2,12 +2,15 @@
 using namespace std;
 
 
-// 55 convert krna h jaisa then 55%2=1 and 55/2=27 
+// if num=55 ,  55%2=1 and convert the num=>>55/2=27 
 //27%2=1 and 27/2 =13
 // 13%2=1 and 13/2=6
 //6%2 =0 and 6/2=3
-//3%2=1 and 3/2=1
-//1%2(here so we need a condition that makes 1/2=0(not possible))so stop.
+// 3%2=1 and 3/2=1
+
+// 1%2(here so we need a condition that makes 1/2=0(not possible))so stop.
+
+
 int main(){
     int num;
     cin>>num;
