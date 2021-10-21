@@ -13,8 +13,8 @@
 
 ###    Welcome to all of you in this never ending festive.
 
-## So there will be two part here one is the Data Structure with cpp.
+#### So there will be two part here one is the Data Structure with cpp.
 
-## and the second one is cpp problems and solution where we deal problems of various types.
+#### and the second one is cpp problems and solution where we deal problems of various types.
 
-## just Go on and learn .
+#### just Go on and learn .
